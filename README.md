@@ -1,5 +1,5 @@
 <h1 align="center">Hello! my name is Nolasco,</h1>
-<h3 align="center">I'm a MERN Stack Developer. I am currently 28 years old and I finishing a degree in Industrial Engineering from the National University of Tucumán, Argentina. Since February of last year I started to studing MERN Stack Development at Coderhouse, Argentina which allowed me to learn concepts of HTML5, CSS3, Javascript, React Js, Node Js, Express and MongoDB.</h3>
+<h3 align="center">I'm a Full Stack Developer. I am currently 28 years old and I finishing a degree in Industrial Engineering from the National University of Tucumán, Argentina. Since February of last year I started to studing MERN Stack Development at Coderhouse, Argentina which allowed me to learn concepts of HTML5, CSS3, Javascript, React Js, Node Js, Express and MongoDB.</h3>
 
 - 📫 How to reach me **nolascozapata71@gmail.com**
 
