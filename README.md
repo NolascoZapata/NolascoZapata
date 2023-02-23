@@ -6,9 +6,7 @@
       Development at Coderhouse, Argentina which allowed me to learn concepts of
       HTML5, CSS3, Javascript, React Js, Node Js, Express and MongoDB.
     </h3>
-
     - 📫 How to reach me **nolascozapata71@gmail.com**
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
